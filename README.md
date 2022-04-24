@@ -46,7 +46,7 @@ When you search for the foods and cocktails. It will show you the recipes and in
 
 4.Sever API.
 
-5. Jquery.
+5.Jquery.
 
 **License:**
 
