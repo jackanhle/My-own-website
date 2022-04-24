@@ -1,13 +1,16 @@
 # My potfolio:
+
+**Deploy app:** https://jackanhle.github.io/My-porfolio/
+
 **Title of app:**
 
-Weather-dashboard:
+**Weather-dashboard:**
 
-Deployed app: https://jackanhle.github.io/Weather-dashboard/
+**Deployed app:** https://jackanhle.github.io/Weather-dashboard/
 
 When you search for the city. It will display the weather temperature and weather for the next 5 days.
 
-List of technologies used:
+**List of technologies used:**
 
 1.HTML
 
@@ -17,7 +20,7 @@ List of technologies used:
 
 4.Java Script
 
-5.License:
+**License:**
 
 MIT
 
@@ -27,13 +30,13 @@ MIT
 
 **Title of app:**
 
-Intellierecipe:
+**Intellierecipe:**
 
-Deployed app: https://rajnori.github.io/IntelliRecipe/
+**Deployed app:** https://rajnori.github.io/IntelliRecipe/
 
 When you search for the foods and cocktails. It will show you the recipes and ingridients.
 
-List of technologies used:
+**List of technologies used:**
 
 1.HTML
 
@@ -45,15 +48,16 @@ List of technologies used:
 
 5. Jquery.
 
-License:
+**License:**
 
 MIT
 
 ![image](https://user-images.githubusercontent.com/98195209/164957721-f59a3ddf-19d6-4b5b-af18-0afb6bd75120.png)
 
-Contact information:
+**Contact information:**
 
 Email me at : Lejack164@gmail.com
+
 
 
 
